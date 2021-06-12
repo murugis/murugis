@@ -1,13 +1,11 @@
 ### Hi there my name is Rose👋
-I am currently finishing my Data Analytics course at Lambda School. I enjoy solving world problems through analysing data and finding solutions to world problems.
+I am currently learning Data Science at Lambda School. I love puzzles and working with data to solve today's problems is my greatest goal. 
 
+### Languages
+python,sql,
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...[LinkedIn](https://www.linkedin.com/in/rose-wachira-94bba875/)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I love cooking and 
 -->
+### How to reach me:
+[LinkedIn](https://www.linkedin.com/in/rose-wachira-94bba875/) [Twitter](https://twitter.com/rosewachira20)
+
+- ⚡ Fun fact: I love cooking and and watching mystreries. 
