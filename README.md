@@ -1,8 +1,8 @@
 ### Hi there my name is Rose👋
-I am currently learning Data Science at Lambda School. I love puzzles and working with data to solve today's problems is my greatest goal. 
+ Working and going to school taught me so many skills from not only how to drive but it also taught me to manage my time well. In other words, I am able to be flexible with having multiple jobs in order to find where I belong and that is my goal in life. I am currently learning Data Science at Lambda School.I love puzzles and working with data to solve today's problems is my greatest goal. 
 
 ### Languages
-python,sql,
+Python, Mahine Learning, SQL
 
 -->
 ### How to reach me:
